@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254805224859",
+    "firebase_url": "https://todolist-cbc7d.firebaseio.com",
+    "project_id": "todolist-cbc7d",
+    "storage_bucket": "todolist-cbc7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254805224859:android:05e56d5e1fc7f448",
+        "android_client_info": {
+          "package_name": "com.example.flutter_assignment_03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254805224859-ujmrsqmbkomcfpsu6796lllpvpa3asav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJvG_c7eLHSEoXtxvf1MkmVln33yCEJ4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254805224859-ujmrsqmbkomcfpsu6796lllpvpa3asav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
